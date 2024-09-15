@@ -13,3 +13,5 @@ users will be able to record a list of birds that they have seen and view birds 
 * Authentication: Users must have accounts in order to store birds
 * Database data: birds
 * WebSocket Data: notifications when friends add birds to their lists
+### mock-up
+![mock-up](startup_spec.pdf "Mock-Up")
